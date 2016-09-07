@@ -1,0 +1,10 @@
+#package specification
+#Thu Sep 01 17:52:14 CST 2016
+helloWorld-clazzes=helloWorld.Aes helloWorld.Des helloWorld.Hash helloWorld.Hello helloWorld.RandGenerator helloWorld.Rsa helloWorld.Sign
+helloWorld-minor=0
+masktools-version=3.0
+helloWorld-aid=001122334455
+helloWorld-base=internal
+jcop-packages=helloWorld
+helloWorld-major=1
+helloWorld.Hello-aid=554433221100
